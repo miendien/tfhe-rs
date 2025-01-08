@@ -38,7 +38,6 @@ production-ready library for all the advanced features of TFHE.
 <br></br>
 
 ### Main features
-
 - **Low-level cryptographic library** that implements Zama’s variant of TFHE, including programmable bootstrapping
 - **Implementation of the original TFHE boolean API** that can be used as a drop-in replacement for other TFHE libraries
 - **Short integer API** that enables exact, unbounded FHE integer arithmetics with up to 8 bits of message space
@@ -48,7 +47,6 @@ production-ready library for all the advanced features of TFHE.
 
 *Learn more about TFHE-rs features in the [documentation](https://docs.zama.ai/tfhe-rs/readme).*
 <br></br>
-
 ## Table of Contents
 - **[Getting started](#getting-started)**
    - [Cargo.toml configuration](#cargotoml-configuration)
